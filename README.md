@@ -3,18 +3,22 @@
 ![logo-fecap](https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82)
 
 ## Nome do Projeto
-inverkan
+# inverkan
+
+<br>
 
 ## Integrantes do Grupo
-[Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)
-[Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)
-[Victória Duarte Vieira Azevedo](www.linkedin.com/in/)
-[Vitor Paes Kolle](www.linkedin.com/in/)
+[Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
+[Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)  
+[Victória Duarte Vieira Azevedo](www.linkedin.com/in/victória-duarte-a35747211)  
+[Vitor Paes Kolle](https://www.linkedin.com/in/vitor-paes-kolle)  
 
 ## Professores Orientadores
-[David de Oliveira Lemes](https://www.linkedin.com/in/dolemes/)
-[Renata Muniz do Nascimento](https://www.linkedin.com/in/remuniz/)
-[Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)
+[David de Oliveira Lemes](https://www.linkedin.com/in/dolemes/)  
+[Renata Muniz do Nascimento](https://www.linkedin.com/in/remuniz/)  
+[Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)  
+
+<br>
 
 ## 🎮 Descrição do Jogo
 -
@@ -30,6 +34,8 @@ inverkan
 
 ## 🛠 Como Executar (Instalação)
 -
+
+<br>
 
 ## 📋 Licença
 Este projeto está licenciado sob a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
