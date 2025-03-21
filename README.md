@@ -3,9 +3,9 @@
 ![logo-fecap](https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82)
 
 ## Nome do Projeto
-# inverkan
+inverkan
 
-<br>
+<hr>
 
 ## Integrantes do Grupo
 [Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
@@ -18,7 +18,7 @@
 [Renata Muniz do Nascimento](https://www.linkedin.com/in/remuniz/)  
 [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)  
 
-<br>
+<hr>
 
 ## 🎮 Descrição do Jogo
 -
@@ -35,7 +35,7 @@
 ## 🛠 Como Executar (Instalação)
 -
 
-<br>
+<hr>
 
 ## 📋 Licença
 Este projeto está licenciado sob a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
