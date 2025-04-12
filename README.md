@@ -4,6 +4,7 @@
 
 ## Nome do Projeto
 # Inverkan
+![logo-inverkan](https://github.com/user-attachments/assets/d8cc2ef7-5ccf-4bb9-8938-a8d6663a3ff9)  
 
 <hr>
 
