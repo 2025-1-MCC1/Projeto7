@@ -49,7 +49,7 @@ Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo I
 ## 🛠 Como Executar (Instalação)
 - [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
 ```
-git clone https://github.com/usuario/inverkan.git
+git clone [https://github.com/2025-1-MCC1/Projeto7.git
 ```  
 
 - [X] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
@@ -67,11 +67,6 @@ git clone https://github.com/usuario/inverkan.git
     - Inauguração da Cidade: ao final do jogo, haverá a inauguração da cidade.
 - <ins>Sistema de progressão</ins>: Há um único mapa em que ocorrem mudanças de cenário de acordo com o progresso do jogador em realizar as quests pré-programadas– as quais o jogador deve finalizar a fim de receber Inverkins (unidade monetária local). Além disso, já existe uma infraestrutura base desde o início do jogo (sobre a qual o jogador implementa as features da cidade inteligente).
 - <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley
-
-<hr>
-> [!NOTE]
-> Este projeto ainda está em andamento.
-<hr>
 
 
 ## 📋 Licença
