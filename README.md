@@ -36,14 +36,12 @@
 
 ## 🗂 Estrutura de Pastas
 __/src  
-_____/Entrega 1  
-_____/Entrega 2  
-_____/Apresentação  
+_____/Jogo  
 __/documentos  
 _____/Entrega 1  
 _____/Entrega 2  
 
-Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
+Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
 
 
 ## 🛠 Como Executar (Instalação)
