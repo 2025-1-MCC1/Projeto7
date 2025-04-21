@@ -35,26 +35,28 @@
 [Em andamento]
 
 ## 🗂 Estrutura de Pastas
-/src  
-  /Entrega 1  
-  /Entrega 2  
-  /Apresentação  
-/documentos  
-  /Entrega 1  
-  /Entrega 2  
+__/src  
+_____/Entrega 1  
+_____/Entrega 2  
+_____/Apresentação  
+__/documentos  
+_____/Entrega 1  
+_____/Entrega 2  
 
-Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas/entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
+Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
 
 
 ## 🛠 Como Executar (Instalação)
-- Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
-`git clone https://github.com/usuario/inverkan.git`  
+[ ] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
+```
+git clone https://github.com/usuario/inverkan.git
+```  
 
-- Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
+[ ] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
 
-- Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
+[ ] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
 
-- Execute o jogo: Pressione o botão Play no editor do Unity.  
+[ ] Execute o jogo: Pressione o botão Play no editor do Unity.  
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
 - <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com o mouse; a interação é por meio da tecla e. 
@@ -67,6 +69,10 @@ Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo I
 - <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley
 
 <hr>
+> [!NOTA]
+> Este projeto ainda está em andamento.
+<hr>
+
 
 ## 📋 Licença
 Este projeto está licenciado sob a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
