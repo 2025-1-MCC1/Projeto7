@@ -52,11 +52,11 @@ Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo I
 git clone https://github.com/usuario/inverkan.git
 ```  
 
-[ ] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
+- [ ] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
 
-[ ] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
+- [ ] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
 
-[ ] Execute o jogo: Pressione o botão Play no editor do Unity.  
+- [ ] Execute o jogo: Pressione o botão Play no editor do Unity.  
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
 - <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com o mouse; a interação é por meio da tecla e. 
@@ -69,7 +69,7 @@ git clone https://github.com/usuario/inverkan.git
 - <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley
 
 <hr>
-> [!NOTA]
+> [!NOTE]
 > Este projeto ainda está em andamento.
 <hr>
 
