@@ -8,7 +8,7 @@
 <hr>
 
 ## Integrantes do Grupo
-[Gustavo Miranda de Souza](https://www.linkedin.com/in/gustavo-miranda-162b5835b) 
+[Gustavo Miranda de Souza](https://www.linkedin.com/in/gustavo-miranda-162b5835b)  
 [Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
 [Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)  
 [Victória Duarte Vieira Azevedo](www.linkedin.com/in/victória-duarte-a35747211)  
@@ -25,20 +25,36 @@
 <hr>
 
 ## 🎮 Narrativa do Jogo
-  Inverkan era uma cidade próspera até a chegada da Sko Inc., uma fábrica de sapatos que trouxe empregos e crescimento. No entanto, há dez anos, uma explosão na fábrica tornou a cidade inabitável, forçando a evacuação total. 
+  Inverkan era uma cidade próspera até a chegada da Sko Inc., uma fábrica de sapatos que trouxe empregos e crescimento. No entanto, há dez anos, uma explosão na fábrica tornou a cidade inabitável, forçando a evacuação total.  
   Anora, que passou a infância em Inverkan, guarda lembranças da forte comunidade local. Agora, determinada a restaurar sua cidade natal, ela planeja torná-la habitável novamente com soluções inteligentes e sustentáveis, como controle de acesso, tráfego inteligente, WIFI completo, descontaminação da água e reflorestamento.
 
 ## 🎨 Design do Jogo
   O gráfico do jogo é Low Poly, apresentando poucos detalhes e uma interface simples e direta.
 
 ## 🎥 Trailer do Jogo
--
+[Em andamento]
 
 ## 🗂 Estrutura de Pastas
--
+/src  
+  /Entrega 1  
+  /Entrega 2  
+  /Apresentação  
+/documentos  
+  /Entrega 1  
+  /Entrega 2  
+
+Nessa estrutura, a pasta "src" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas/entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
+
 
 ## 🛠 Como Executar (Instalação)
--
+- Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
+`git clone https://github.com/usuario/inverkan.git`  
+
+- Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
+
+- Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
+
+- Execute o jogo: Pressione o botão Play no editor do Unity.  
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
 - <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com o mouse; a interação é por meio da tecla e. 
@@ -67,7 +83,7 @@ Sob os seguintes termos:
 [Suno - AI Music](https://suno.com/)  
 [Creative Commons](https://creativecommons.org/share-your-work/)  
 [Template PI FECAP](https://github.com/fecaphub/Template_PI)  
-[Readme Projeto 2024.2](https://github.com/2024-2-MCC1/Projeto4)  
+[Readme Projeto 4 2024.2](https://github.com/2024-2-MCC1/Projeto4)  
 [Roblox](https://www.roblox.com/)  
 [Cities: Skylines](https://store.epicgames.com/pt-BR/p/cities-skylines)  
 [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
