@@ -37,6 +37,8 @@
 ## 🗂 Estrutura de Pastas
 __/src  
 _____/Jogo  
+_______/Entrega 1  
+_______/Entrega 2  
 __/documentos  
 _____/Entrega 1  
 _____/Entrega 2  
