@@ -1,4 +1,4 @@
-# Projeto 7 - Inverkan 🧠🏙️
+# Projeto 7 - Inverkan🧠🏙️
 ## FECAP - Fundação de Comércio Álvares Penteado
 ![logo-fecap](https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82)
 
@@ -8,16 +8,16 @@
 <hr>
 
 ## Integrantes do Grupo
-[Gustavo Miranda de Souza](www.linkedin.com/in/) 
+[Gustavo Miranda de Souza](https://www.linkedin.com/in/gustavo-miranda-162b5835b) 
 [Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
 [Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)  
 [Victória Duarte Vieira Azevedo](www.linkedin.com/in/victória-duarte-a35747211)  
 [Vitor Paes Kolle](https://www.linkedin.com/in/vitor-paes-kolle)  
 
 ## Professores Orientadores
-[Adriano Felix Valente](https://www.linkedin.com/in/)  
+[Adriano Felix Valente](https://www.linkedin.com/in/adriano-valente-534576135/)  
 [Joyce Daniele Tavares](https://www.linkedin.com/in/)  
-[Luis Fernando dos Santos Pires](https://www.linkedin.com/in/)   
+[Luis Fernando dos Santos Pires](https://www.linkedin.com/in/luisspires)   
 [David de Oliveira Lemes](https://www.linkedin.com/in/dolemes/)  
 [Renata Muniz do Nascimento](https://www.linkedin.com/in/remuniz/)  
 [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)  
