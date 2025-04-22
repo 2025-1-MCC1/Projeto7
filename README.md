@@ -49,7 +49,7 @@ Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo compactado do j
 ## 🛠 Como Executar (Instalação)
 - [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
 ```
-git clone [https://github.com/2025-1-MCC1/Projeto7.git
+git clone https://github.com/2025-1-MCC1/Projeto7.git
 ```  
 
 - [X] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
