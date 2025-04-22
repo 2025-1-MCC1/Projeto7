@@ -45,8 +45,7 @@ _____/Entrega 2
 
 Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
 
-
-## 🛠 Como Executar (Instalação)
+## 🛠 Executar localmente
 - [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
 ```
 git clone https://github.com/2025-1-MCC1/Projeto7.git
