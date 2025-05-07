@@ -4,8 +4,9 @@
   <img src="https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82" />
 </p>
 
-## Nome do Projeto: Inverkan 
-![inverkanLogo](https://github.com/user-attachments/assets/687973fb-9252-45b4-9def-ad702b9a2059)
+## Nome do Projeto: Inverkan  
+![inverkanLogo](https://github.com/user-attachments/assets/7059a6e5-cf5c-4860-a28a-cd9bb65d50bf)
+
 
 <hr>
 
