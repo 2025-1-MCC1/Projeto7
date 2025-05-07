@@ -1,9 +1,11 @@
 # Projeto 7 - Inverkan🧠🏙️
 ## FECAP - Fundação de Comércio Álvares Penteado
-![logo-fecap](https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aed2b4ff-9c3d-4cdf-83da-2aa277a53f82" />
+</p>
 
-## Nome do Projeto: Inverkan
-![logo-inverkan](https://github.com/user-attachments/assets/d8cc2ef7-5ccf-4bb9-8938-a8d6663a3ff9)  
+## Nome do Projeto: Inverkan 
+![inverkanLogo](https://github.com/user-attachments/assets/687973fb-9252-45b4-9def-ad702b9a2059)
 
 <hr>
 
