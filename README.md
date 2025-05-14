@@ -5,8 +5,6 @@
 </p>
 
 ## Nome do Projeto: Inverkan  
-![inverkanLogo](https://github.com/user-attachments/assets/7059a6e5-cf5c-4860-a28a-cd9bb65d50bf)
-
 
 <hr>
 
@@ -27,42 +25,12 @@
 
 <hr>
 
+# Descrição
+![inverkanLogo](https://github.com/user-attachments/assets/7059a6e5-cf5c-4860-a28a-cd9bb65d50bf)  
+
 ## 🎮 Narrativa do Jogo
   Inverkan era uma cidade próspera até a chegada da Sko Inc., uma fábrica de sapatos que trouxe empregos e crescimento. No entanto, há dez anos, uma explosão na fábrica tornou a cidade inabitável, forçando a evacuação total.  
   Anora, que passou a infância em Inverkan, guarda lembranças da forte comunidade local. Agora, determinada a restaurar sua cidade natal, ela planeja torná-la habitável novamente com soluções inteligentes e sustentáveis, como controle de acesso, tráfego inteligente, WIFI completo, descontaminação da água e reflorestamento.
-
-## 🎨 Design do Jogo
-  O gráfico do jogo é Low Poly, apresentando poucos detalhes e uma interface simples e direta.
-
-## 🎥 Trailer do Jogo
-[Em andamento]
-
-## 🗂 Estrutura de Pastas
-__/src  
-_____/Jogo  
-_______/Entrega 1  
-_______/Entrega 2  
-__/documentos  
-_____/Entrega 1  
-_____/Entrega 2  
-
-Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo compactado do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
-
-## 🚀 Executável
-- [X] Na pasta /executavel, baixe o PDF onde está o link do arquivo compactado, baixe-o e extraia os arquivos. 
-- [X] Encontre o Inverkan.exe e execute-o como qualquer outro programa.  
-
-## 🛠 Executar localmente
-- [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
-```
-git clone https://github.com/2025-1-MCC1/Projeto7.git
-```  
-
-- [X] Abra o Unity Hub: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
-
-- [X] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena principal (Environment).  
-
-- [X] Execute o jogo: Pressione o botão Play no editor do Unity.  
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
 - <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com o mouse; a interação é por meio da tecla e. 
@@ -72,19 +40,43 @@ git clone https://github.com/2025-1-MCC1/Projeto7.git
 - <ins>Objetivo</ins>: Tornar a cidade de Inverkan habitável e próspera novamente.
     - Inauguração da Cidade: ao final do jogo, haverá a inauguração da cidade.
 - <ins>Sistema de progressão</ins>: Há um único mapa em que ocorrem mudanças de cenário de acordo com o progresso do jogador em realizar as quests pré-programadas– as quais o jogador deve finalizar a fim de receber Inverkins (unidade monetária local). Além disso, já existe uma infraestrutura base desde o início do jogo (sobre a qual o jogador implementa as features da cidade inteligente).
-- <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley
+- <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley  
+
+## 🎨 Design do Jogo
+  O gráfico do jogo é Low Poly, apresentando poucos detalhes e uma interface simples e direta.
+
+## 🎥 Trailer do Jogo
+[Em andamento]
+
+## 🗂 Estrutura de Pastas
+|-->src  
+  |-->Jogo  
+    |-->Entrega 1  
+    |-->Entrega 2  
+|-->documentos  
+  |-->Entrega 1  
+  |-->Entrega 2  
+|README.md
+
+Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
+
+## 🚀 Instalação
+Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro
+- [X] Na pasta /executavel, baixe o PDF onde está o link do arquivo compactado, baixe-o e extraia os arquivos. 
+- [X] Encontre o Inverkan.exe e execute-o como qualquer outro programa.
+
+## 🛠 Configuração para Desenvolvimento
+- [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
+```
+git clone https://github.com/2025-1-MCC1/Projeto7.git
+```  
+- [X] Abra/instale o `Unity 6000.0.38f1`: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
+- [X] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena inicial (Menu).  
+- [X] Execute o jogo: Pressione o botão Play no editor do Unity.  
 
 
 ## 📋 Licença
-Este projeto está licenciado sob a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Você é livre para:
-- Compartilhar — copiar e redistribuir o material em qualquer meio ou formato.
-- Adaptar — remixar, transformar e criar a partir do material para qualquer finalidade, mesmo que comercial.
-
-Sob os seguintes termos:
-- Atribuição — Você deve dar o devido crédito, fornecer um link para a licença e indicar se mudanças foram feitas.
-- Compartilhar Igual — Se você remixar, transformar, ou criar algo a partir do material, deve distribuir suas contribuições sob a mesma licença que o original.
+<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 [Suno - AI Music](https://suno.com/)  
