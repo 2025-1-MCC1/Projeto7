@@ -50,12 +50,12 @@
 
 ## 🗂 Estrutura de Pastas
 |-->src  
-  |-->Jogo  
-    |-->Entrega 1  
-    |-->Entrega 2  
+  &emsp;|-->Jogo  
+    &emsp;&emsp;|-->Entrega 1  
+    &emsp;&emsp;|-->Entrega 2  
 |-->documentos  
-  |-->Entrega 1  
-  |-->Entrega 2  
+  &emsp;|-->Entrega 1  
+  &emsp;|-->Entrega 2  
 |README.md
 
 Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
