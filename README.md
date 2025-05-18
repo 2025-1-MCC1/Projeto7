@@ -76,7 +76,7 @@ git clone https://github.com/2025-1-MCC1/Projeto7.git
 
 
 ## 📋 Licença
-<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="10" style="margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="10" style="margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="10" style="margin-left: .2em;">
+<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
 
 ## 🎓 Referências
 [Suno - AI Music](https://suno.com/)  
