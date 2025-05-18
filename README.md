@@ -78,10 +78,7 @@ Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executá
 - [X] Encontre o Inverkan.exe e execute-o como qualquer outro programa.
 
 ## 🛠 Configuração para Desenvolvimento
-- [X] Clone o repositório ou baixe o projeto, extraindo os arquivos posteriormente: Clique em <ins>Code > Download ZIP</ins> ou use o comando:
-```
-git clone https://github.com/2025-1-MCC1/Projeto7.git
-```  
+- [X] Abra o arquivo ZIP cujo link está na pasta `src/Jogo/Entrega 2`, este é o [Projeto Inverkan](https://drive.google.com/file/d/1wZkg5fHqLGAcL8EYbu7AJmTOHHDvouSQ/view?usp=drivesdk) completo e finalizado.  
 - [X] Abra/instale o `Unity 6000.0.38f1`: Clique em <ins>Open Project</ins> e selecione a pasta onde o projeto foi baixado.   
 - [X] Configure a cena inicial: Vá para a pasta <ins>/Scenes</ins> e abra a cena inicial (Menu).  
 - [X] Execute o jogo: Pressione o botão Play no editor do Unity.  
