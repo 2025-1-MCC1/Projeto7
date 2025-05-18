@@ -33,13 +33,13 @@
   Anora, que passou a infância em Inverkan, guarda lembranças da forte comunidade local. Agora, determinada a restaurar sua cidade natal, ela planeja torná-la habitável novamente com soluções inteligentes e sustentáveis, como controle de acesso, tráfego inteligente, WIFI completo, descontaminação da água e reflorestamento.
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
-- <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com o mouse; a interação é por meio da tecla e. 
+- <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com as setas horizontais do teclado; as interações aconrecem por meio da tecla e. 
   - Sistema de recompensas: quando o jogador completa uma quest, recebe uma recompensa monetária, que acompanha a dificuldade ou complexidade da missão.
   - Conforme o jogador avança, há a possibilidade de implementar elementos opcionais na cidade. Para adicioná-los, é necessário ter quantidades de dinheiro suficientes.
-  - Indicador de progresso: ao progredir na jornada, o céu se tornará gradativamente mais “limpo”, sendo essa percepção implementada por meio da mudança de cores.
+  - Indicador de progresso: ao progredir na jornada, o jogador recebe pontos referentes à compleição de quests.
 - <ins>Objetivo</ins>: Tornar a cidade de Inverkan habitável e próspera novamente.
     - Inauguração da Cidade: ao final do jogo, haverá a inauguração da cidade.
-- <ins>Sistema de progressão</ins>: Há um único mapa em que ocorrem mudanças de cenário de acordo com o progresso do jogador em realizar as quests pré-programadas– as quais o jogador deve finalizar a fim de receber Inverkins (unidade monetária local). Além disso, já existe uma infraestrutura base desde o início do jogo (sobre a qual o jogador implementa as features da cidade inteligente).
+- <ins>Sistema de progressão</ins>: Há um único mapa em que ocorrem mudanças de cenário de acordo com o progresso do jogador em realizar as quests pré-programadas– as quais o jogador deve finalizar a fim de receber Inverkins (pontos). Além disso, já existe uma infraestrutura base desde o início do jogo (sobre a qual o jogador implementa as features da cidade inteligente).
 - <ins>Referências</ins>: Roblox, Cities Skylines e Stardew Valley  
 
 ## 🎨 Design do Jogo
@@ -58,7 +58,7 @@
   &emsp;|-->Entrega 2  
 |README.md
 
-Nessa estrutura, a pasta "src/Jogo" abriga o link para o arquivo do jogo Inverkan. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
+Nessa estrutura, a pasta "src/Jogo" abriga os arquivos do jogo Inverkan em si. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
 
 ## 🚀 Instalação
 Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro
@@ -76,7 +76,7 @@ git clone https://github.com/2025-1-MCC1/Projeto7.git
 
 
 ## 📋 Licença
-<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
+<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 </a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
 
 ## 🎓 Referências
 [Suno - AI Music](https://suno.com/)  
