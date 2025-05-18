@@ -88,8 +88,7 @@ git clone https://github.com/2025-1-MCC1/Projeto7.git
 
 
 ## 📋 Licença
-<a href="https://www.fecap.br/">FECAP - Fundação de Comércio Álvares Penteado</a>  
-<hr>
+<a href="https://www.fecap.br/">FECAP - Fundação de Comércio Álvares Penteado</a>    
 <a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/Gustavo7122">Gustavo Miranda de Souza</a>, <a href="https://github.com/saidsales">Said Sales de Sousa</a>, <a href="https://github.com/sofiahernandes">Sofia Botechia Hernandes</a>, <a href="https://github.com/viick04">Victória Duarte Vieira Azevedo</a> e <a href="https://github.com/vitorkolle">Vitor Paes Kolle</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
 
 ## 🎓 Referências
