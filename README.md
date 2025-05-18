@@ -10,8 +10,8 @@
 
 ## Integrantes do Grupo
 [Gustavo Miranda de Souza](https://www.linkedin.com/in/gustavo-miranda-162b5835b)  
-[Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
 [Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)  
+[Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
 [Victória Duarte Vieira Azevedo](www.linkedin.com/in/victória-duarte-a35747211)  
 [Vitor Paes Kolle](https://www.linkedin.com/in/vitor-paes-kolle)  
 
@@ -26,7 +26,8 @@
 <hr>
 
 # Descrição
-![inverkanLogo](https://github.com/user-attachments/assets/7059a6e5-cf5c-4860-a28a-cd9bb65d50bf)  
+![inverkanLogo](https://github.com/user-attachments/assets/e6a658bb-a5dc-4bab-ae55-d6e570ef73bf)  
+
 
 ## 🎮 Narrativa do Jogo
   Inverkan era uma cidade próspera até a chegada da Sko Inc., uma fábrica de sapatos que trouxe empregos e crescimento. No entanto, há dez anos, uma explosão na fábrica tornou a cidade inabitável, forçando a evacuação total.  
@@ -54,8 +55,19 @@
     &emsp;&emsp;|-->Entrega 1  
     &emsp;&emsp;|-->Entrega 2  
 |-->documentos  
-  &emsp;|-->Entrega 1  
-  &emsp;|-->Entrega 2  
+    &emsp;&emsp;|-->Entrega 1  
+       &emsp;&emsp;&emsp;|-->Algoritmos e Lógica da Programação  
+       &emsp;&emsp;&emsp;|-->Cálculo I  
+       &emsp;&emsp;&emsp;|-->Jogos Digitais e Sistemas Digitais Interativos  
+       &emsp;&emsp;&emsp;|-->Projeto Interdisciplinar Jogos Digitais  
+       &emsp;&emsp;&emsp;|-->Ética e Pensamento Computacional  
+    &emsp;&emsp;|-->Entrega 2  
+       &emsp;&emsp;&emsp;|-->Algoritmos e Lógica da Programação  
+       &emsp;&emsp;&emsp;|-->Cálculo I  
+       &emsp;&emsp;&emsp;|-->Jogos Digitais e Sistemas Digitais Interativos  
+       &emsp;&emsp;&emsp;|-->Projeto Interdisciplinar Jogos Digitais  
+       &emsp;&emsp;&emsp;|-->Ética e Pensamento Computacional  
+|-->executável
 |README.md
 
 Nessa estrutura, a pasta "src/Jogo" abriga os arquivos do jogo Inverkan em si. Enquanto a pasta "documentos" abriga as tarefas e entregas relativas a cada uma das disciplinas do primeiro semestre do curso de Ciência da Computação, em que o presente projeto foi realizado.  
@@ -76,7 +88,8 @@ git clone https://github.com/2025-1-MCC1/Projeto7.git
 
 
 ## 📋 Licença
-<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto7">Grupo 7</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 </a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
+<a href="https://www.fecap.br/">FECAP - Fundação de Comércio Álvares Penteado</a>  
+<a href="https://github.com/2025-1-MCC1/Projeto7">Inverkan</a> © 2025 by <a href="https://github.com/Gustavo7122">Gustavo Miranda de Souza</a>, <a href="https://github.com/saidsales">Said Sales de Sousa</a>, <a href="https://github.com/sofiahernandes">Sofia Botechia Hernandes</a>, <a href="https://github.com/viick04">Victória Duarte Vieira Azevedo</a> e <a href="https://github.com/vitorkolle">Vitor Paes Kolle</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20" width="20" style="margin-left: 0.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" height="20" width="20" style="margin-left: 0.2em;">
 
 ## 🎓 Referências
 [Suno - AI Music](https://suno.com/)  
