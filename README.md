@@ -31,7 +31,7 @@
 
 ## 🎮 Narrativa do Jogo
   Inverkan era uma cidade próspera até a chegada da Sko Inc., uma fábrica de sapatos que trouxe empregos e crescimento. No entanto, há dez anos, uma explosão na fábrica tornou a cidade inabitável, forçando a evacuação total.  
-  Anora, que passou a infância em Inverkan, guarda lembranças da forte comunidade local. Agora, determinada a restaurar sua cidade natal, ela planeja torná-la habitável novamente com soluções inteligentes e sustentáveis, como controle de acesso, tráfego inteligente, WIFI completo, descontaminação da água e reflorestamento.
+  Anora, que passou a infância em Inverkan, guarda lembranças da forte comunidade local. Agora, determinada a restaurar sua cidade natal, ela planeja torná-la habitável novamente com soluções inteligentes e sustentáveis, como tráfego e iluminação inteligentes, cobertura de WIFI completa, coleta de resíduos etc.
 
 ## 🤖 Para os Curiosos: Mecânicas do Jogo
 - <ins>Funcionamento</ins>: O jogador é apresentado à história, sendo instruído a completar quests pela cidade a fim de atingir o objetivo macro do jogo. A movimentação espacial é feita com as teclas w/a/s/d e a da câmera com as setas horizontais do teclado; as interações aconrecem por meio da tecla e. 
@@ -47,7 +47,7 @@
   O gráfico do jogo é Low Poly, apresentando poucos detalhes e uma interface simples e direta.
 
 ## 🎥 Trailer do Jogo
-[Em andamento]
+[Trailer Inverkan](https://youtu.be/ZQvT9CLvRMk?si=9arf6PA1LLLeodds)
 
 ## 🗂 Estrutura de Pastas
 |-->src  
