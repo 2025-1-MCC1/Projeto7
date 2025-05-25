@@ -47,7 +47,7 @@
   O gráfico do jogo é Low Poly, apresentando poucos detalhes e uma interface simples e direta.
 
 ## 🎥 Trailer do Jogo
-[Trailer Inverkan](https://youtu.be/ZQvT9CLvRMk?si=9arf6PA1LLLeodds)
+[![Trailer Inverkan](https://img.youtube.com/vi/ZQvT9CLvRMk?si=9arf6PA1LLLeodds.jpg)](https://www.youtube.com/watch?v=ZQvT9CLvRMk?si=9arf6PA1LLLeodds)
 
 ## 🗂 Estrutura de Pastas
 |-->src  
