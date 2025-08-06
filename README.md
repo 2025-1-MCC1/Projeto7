@@ -10,9 +10,9 @@
 
 ## Integrantes do Grupo
 [Gustavo Miranda de Souza](https://www.linkedin.com/in/gustavo-miranda-162b5835b)  
-[Said Sales de Sousa](www.linkedin.com/in/said-sales-96b6aa357)  
-[Sofia Botechia Hernandes](www.linkedin.com/in/sofiahernandes)  
-[Victória Duarte Vieira Azevedo](www.linkedin.com/in/victória-duarte-a35747211)  
+[Said Sales de Sousa](https://www.linkedin.com/in/said-sales-96b6aa357)  
+[Sofia Botechia Hernandes](https://www.linkedin.com/in/sofiahernandes)  
+[Victória Duarte Vieira Azevedo](https://www.linkedin.com/in/victória-duarte-a35747211)  
 [Vitor Paes Kolle](https://www.linkedin.com/in/vitor-paes-kolle)  
 
 ## Professores Orientadores
